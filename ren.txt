@@ -5,3 +5,4 @@ ren *.jpg *.png
 ren *.* *.png
 ren *.* *.jpg
 ren *.* *.gif
+ren *.* *.png
