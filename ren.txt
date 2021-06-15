@@ -2,3 +2,4 @@ ren *.jpg *.png
 ren *.jpg *.png
 ren *.jpg *.png
 ren *.jpg *.png
+ren *.* *.png
