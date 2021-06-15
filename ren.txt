@@ -7,3 +7,4 @@ ren *.* *.jpg
 ren *.* *.gif
 ren *.* *.png
 ren *.* *.png
+ren *.* *.png
