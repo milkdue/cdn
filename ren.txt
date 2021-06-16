@@ -8,3 +8,4 @@ ren *.* *.gif
 ren *.* *.png
 ren *.* *.png
 ren *.* *.png
+ren *.jpg *.png
