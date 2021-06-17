@@ -12,3 +12,4 @@ ren *.jpg *.png
 ren *.* *.png
 ren *.* *.png
 ren *.* *.jpg
+ren *.* *.jpg
